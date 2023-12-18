@@ -1,5 +1,3 @@
-# ReadmeDocument
-
 # UAV LQR Control in MATLAB
 
 This MATLAB project demonstrates the implementation of a Linear Quadratic Regulator (LQR) controller and Luenberger Observer for a UAV (Unmanned Aerial Vehicle).
