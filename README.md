@@ -1,1 +1,0 @@
-# Quadrotor_UAV_LQR_Controll
